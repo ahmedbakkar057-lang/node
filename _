@@ -1,0 +1,10 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.log
+panel_data
+.env
+.venv
+node_modules
